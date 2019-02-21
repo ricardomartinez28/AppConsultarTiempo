@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppConsultarTiempo</string>
+    <string name="hint_latitud">Latitud</string>
+    <string name="hint_longitud">Longitud</string>
+    <string name="btn_consultar">consultar tiempo</string>
+    <string name="tv_temperatura">%$dº</string>
+    <string name="tv_humedad">HUMEDAD</string>
+    <string name="tv_lluvia">LLUVIA</string>
+    <string name="tv_valor_humedad">%1$d</string>
+    <string name="tv_valor_lluvia">%1$d</string>
+    <string name="tv_sumario">%1$s</string>
+</resources>
